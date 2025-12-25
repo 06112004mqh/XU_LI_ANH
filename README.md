@@ -96,6 +96,7 @@ torchvision
 ⚠️ Lưu Ý
 Chương trình hoạt động tốt nhất với PCB 1 lớp hoặc 2 lớp mà đường mạch lộ rõ ra bên ngoài.
 Ảnh đầu vào cần có độ nét cao và ánh sáng đều. Bóng đổ quá nhiều có thể làm đứt đường mạch trong quá trình xử lý ảnh.
+Cần sửa lại chính xác link model 
 🤝 Đóng Góp
 Mọi đóng góp, báo lỗi hoặc yêu cầu tính năng mới đều được hoan nghênh. Vui lòng tạo Issue hoặc Pull Request trên GitHub.
 Do link model nhan dien linh kien khá lớn ko thể up lên github: https://drive.google.com/drive/folders/13cxrhgwhS2qnKPX2p5SUxkj_z7OKquZm?dmr=1&ec=wgc-drive-globalnav-goto
